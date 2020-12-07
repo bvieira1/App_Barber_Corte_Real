@@ -5,7 +5,8 @@ Aplicativo de agendamentos de horários de Barber Shop Corte Real, desenvolvida 
 > Projeto sendo desenvolvido para a barber Shop Corte Real, Sistema de cadastro de horários para a barbearia, desenvolvida em React com seu backend desenvolvido em, NodeJs com conexão ao Banco de Dados em Postgres
 seu App Mobile será desenvolvido em React Native.**
 
-![SignIn Page](https://github.com/bvieira1/App_Barber_Corte_Real/blob/main/src/assets/screens/signIn.png)
+
+<img src="https://github.com/bvieira1/App_Barber_Corte_Real/blob/main/src/assets/screens/signIn.png" height="150" width=""100 />
 
 ![SignUp Page](https://github.com/bvieira1/App_Barber_Corte_Real/blob/main/src/assets/screens/signUp.png)
 
