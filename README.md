@@ -1,4 +1,4 @@
-# Barber_Corte_Real
+# Barber Corte Real React Native
 Aplicativo de agendamentos de horários de Barber Shop Corte Real, desenvolvida em React Native com API em NodeJs e BD Postgres
 # RESTful com Node.js, Postgres
 
@@ -9,8 +9,6 @@ seu App Mobile será desenvolvido em React Native.**
   <img src="https://github.com/bvieira1/App_Barber_Corte_Real/blob/main/src/assets/screens/signIn.png" width="350" title="hover text">
   <img src="https://github.com/bvieira1/App_Barber_Corte_Real/blob/main/src/assets/screens/signUp.png" width="350" alt="accessibility text">
 </p>
-
-
 
 
 API address in NodeJs
